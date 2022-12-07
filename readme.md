@@ -1,4 +1,4 @@
-# PyLesDB: The Python connector and optimistic functions library
+# LesbianDB v2.1 connector and optimistic functions library for Python
 
 ## Requirement
 ### Websockets library (```pip install websockets``` will install it)
